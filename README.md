@@ -28,6 +28,6 @@ NightMode(
 ![0.gif](https://github.com/wuweijian1997/night_mode/blob/main/example/gifs/0.gif)
 ![1.gif](https://github.com/wuweijian1997/night_mode/blob/main/example/gifs/1.gif)
 ![2.gif](https://github.com/wuweijian1997/night_mode/blob/main/example/gifs/2.gif)
-![3.gif](https://github.com/wuweijian1997/night_mode/blob/main/example/gifs/3gif)
+![3.gif](https://github.com/wuweijian1997/night_mode/blob/main/example/gifs/3.gif)
 ![4.gif](https://github.com/wuweijian1997/night_mode/blob/main/example/gifs/4.gif)
 ![5.gif](https://github.com/wuweijian1997/night_mode/blob/main/example/gifs/5.gif)
